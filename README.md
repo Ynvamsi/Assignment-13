@@ -1,2 +1,5 @@
 # Assignment-13
- CS648
+
+This project was bootstrapped with Create React App.
+Created unventory system using Nodejs and MongoDB.
+
